@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Thegeekgirl19
-- 👀 I’m interested in Full stack dev
-- 🌱 I’m currently learning javascript
+- 👀 I’m interested in Backend dev
+- 🌱 I’m currently learning core java programming
 - 📫 How to reach me trishalaswain2000@gmail.com
 
 <!---
